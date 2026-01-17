@@ -1,3 +1,5 @@
+Họ tên: Vũ Minh Thành
+MSV: 23810310236
 # Lab 2: PHP & MySQL (PDO)
 
 Dự án thực hành kết nối cơ sở dữ liệu và quản lý sinh viên cơ bản.
